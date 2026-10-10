@@ -14,6 +14,8 @@ PyPDF2==3.0.1
 # Utilities
 python-dotenv==1.0.1
 pydantic==2.7.4
+numpy==1.26.4
+pyarrow==17.0.0
 
 # OpenAI
 openai==2.9.0
